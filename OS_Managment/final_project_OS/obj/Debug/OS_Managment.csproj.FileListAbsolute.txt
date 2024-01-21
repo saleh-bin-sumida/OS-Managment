@@ -1,0 +1,80 @@
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\bin\Debug\final_project_OS.exe.config
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\bin\Debug\final_project_OS.exe
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\bin\Debug\final_project_OS.pdb
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\OS_Managment.csproj.AssemblyReference.cache
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\OS_Managment.csproj.SuggestedBindingRedirects.cache
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\OS_Managment.CreateProcess.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\OS_Managment.Drives.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\OS_Managment.Files.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\OS_Managment.Home.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\OS_Managment.PC_Information.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\OS_Managment.ProcesssManagment.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Properties.Resources.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\OS_Managment.show_all_process.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\OS_Managment.csproj.GenerateResource.cache
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\OS_Managment.csproj.CoreCompileInputs.cache
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.exe
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.pdb
+F:\مجلد جديد\المشاريع\OS Managment\final_project_OS\obj\Debug\OS_Managment.csproj.AssemblyReference.cache
+F:\مجلد جديد\المشاريع\OS Managment\final_project_OS\obj\Debug\OS_Managment.csproj.SuggestedBindingRedirects.cache
+F:\مجلد جديد\المشاريع\OS Managment\final_project_OS\obj\Debug\OS_Managment.CreateProcess.resources
+F:\مجلد جديد\المشاريع\OS Managment\final_project_OS\obj\Debug\OS_Managment.Drives.resources
+F:\مجلد جديد\المشاريع\OS Managment\final_project_OS\obj\Debug\OS_Managment.Files.resources
+F:\مجلد جديد\المشاريع\OS Managment\final_project_OS\obj\Debug\OS_Managment.Home.resources
+F:\مجلد جديد\المشاريع\OS Managment\final_project_OS\obj\Debug\OS_Managment.PC_Information.resources
+F:\مجلد جديد\المشاريع\OS Managment\final_project_OS\obj\Debug\OS_Managment.ProcesssManagment.resources
+F:\مجلد جديد\المشاريع\OS Managment\final_project_OS\obj\Debug\OS_Managment.show_all_process.resources
+F:\مجلد جديد\المشاريع\OS Managment\final_project_OS\obj\Debug\OS_Managment.csproj.GenerateResource.cache
+F:\مجلد جديد\المشاريع\OS Managment\final_project_OS\obj\Debug\final_project_OS.exe
+F:\مجلد جديد\المشاريع\OS Managment\final_project_OS\obj\Debug\final_project_OS.pdb
+F:\Visual Studio Projects\final_project_OS\final_project_OS\obj\Debug\OS_Managment.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\final_project_OS\final_project_OS\obj\Debug\OS_Managment.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio Projects\final_project_OS\final_project_OS\obj\Debug\OS_Managment.CreateProcess.resources
+F:\Visual Studio Projects\final_project_OS\final_project_OS\obj\Debug\OS_Managment.Drives.resources
+F:\Visual Studio Projects\final_project_OS\final_project_OS\obj\Debug\OS_Managment.Files.resources
+F:\Visual Studio Projects\final_project_OS\final_project_OS\obj\Debug\OS_Managment.Home.resources
+F:\Visual Studio Projects\final_project_OS\final_project_OS\obj\Debug\OS_Managment.PC_Information.resources
+F:\Visual Studio Projects\final_project_OS\final_project_OS\obj\Debug\OS_Managment.ProcesssManagment.resources
+F:\Visual Studio Projects\final_project_OS\final_project_OS\obj\Debug\OS_Managment.show_all_process.resources
+F:\Visual Studio Projects\final_project_OS\final_project_OS\obj\Debug\OS_Managment.csproj.GenerateResource.cache
+F:\Visual Studio Projects\final_project_OS\final_project_OS\obj\Debug\final_project_OS.exe
+F:\Visual Studio Projects\final_project_OS\final_project_OS\obj\Debug\final_project_OS.pdb
+F:\Visual Studio Projects\final_project_OS\final_project_OS\bin\Debug\final_project_OS.exe.config
+F:\Visual Studio Projects\final_project_OS\final_project_OS\bin\Debug\final_project_OS.exe
+F:\Visual Studio Projects\final_project_OS\final_project_OS\bin\Debug\final_project_OS.pdb
+F:\Visual Studio Projects\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Properties.Resources.resources
+F:\Visual Studio Projects\final_project_OS\final_project_OS\obj\Debug\OS_Managment.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\OS_Managment\final_project_OS\bin\Debug\final_project_OS.exe.config
+F:\Visual Studio Projects\OS_Managment\final_project_OS\bin\Debug\final_project_OS.exe
+F:\Visual Studio Projects\OS_Managment\final_project_OS\bin\Debug\final_project_OS.pdb
+F:\Visual Studio Projects\OS_Managment\final_project_OS\obj\Debug\OS_Managment.csproj.AssemblyReference.cache
+F:\Visual Studio Projects\OS_Managment\final_project_OS\obj\Debug\OS_Managment.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio Projects\OS_Managment\final_project_OS\obj\Debug\OS_Managment.CreateProcess.resources
+F:\Visual Studio Projects\OS_Managment\final_project_OS\obj\Debug\OS_Managment.Drives.resources
+F:\Visual Studio Projects\OS_Managment\final_project_OS\obj\Debug\OS_Managment.Files.resources
+F:\Visual Studio Projects\OS_Managment\final_project_OS\obj\Debug\OS_Managment.Home.resources
+F:\Visual Studio Projects\OS_Managment\final_project_OS\obj\Debug\OS_Managment.PC_Information.resources
+F:\Visual Studio Projects\OS_Managment\final_project_OS\obj\Debug\OS_Managment.ProcesssManagment.resources
+F:\Visual Studio Projects\OS_Managment\final_project_OS\obj\Debug\final_project_OS.Properties.Resources.resources
+F:\Visual Studio Projects\OS_Managment\final_project_OS\obj\Debug\OS_Managment.show_all_process.resources
+F:\Visual Studio Projects\OS_Managment\final_project_OS\obj\Debug\OS_Managment.csproj.GenerateResource.cache
+F:\Visual Studio Projects\OS_Managment\final_project_OS\obj\Debug\OS_Managment.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\OS_Managment\final_project_OS\obj\Debug\final_project_OS.exe
+F:\Visual Studio Projects\OS_Managment\final_project_OS\obj\Debug\final_project_OS.pdb
+F:\مجلد جديد\OS_Managment\final_project_OS\bin\Debug\final_project_OS.exe.config
+F:\مجلد جديد\OS_Managment\final_project_OS\bin\Debug\final_project_OS.exe
+F:\مجلد جديد\OS_Managment\final_project_OS\obj\Debug\OS_Managment.csproj.AssemblyReference.cache
+F:\مجلد جديد\OS_Managment\final_project_OS\obj\Debug\OS_Managment.csproj.SuggestedBindingRedirects.cache
+F:\مجلد جديد\OS_Managment\final_project_OS\obj\Debug\OS_Managment.CreateProcess.resources
+F:\مجلد جديد\OS_Managment\final_project_OS\obj\Debug\OS_Managment.Drives.resources
+F:\مجلد جديد\OS_Managment\final_project_OS\obj\Debug\OS_Managment.Files.resources
+F:\مجلد جديد\OS_Managment\final_project_OS\obj\Debug\OS_Managment.Home.resources
+F:\مجلد جديد\OS_Managment\final_project_OS\obj\Debug\OS_Managment.PC_Information.resources
+F:\مجلد جديد\OS_Managment\final_project_OS\obj\Debug\OS_Managment.ProcesssManagment.resources
+F:\مجلد جديد\OS_Managment\final_project_OS\obj\Debug\final_project_OS.Properties.Resources.resources
+F:\مجلد جديد\OS_Managment\final_project_OS\obj\Debug\OS_Managment.show_all_process.resources
+F:\مجلد جديد\OS_Managment\final_project_OS\obj\Debug\OS_Managment.csproj.GenerateResource.cache
+F:\مجلد جديد\OS_Managment\final_project_OS\obj\Debug\OS_Managment.csproj.CoreCompileInputs.cache
+F:\مجلد جديد\OS_Managment\final_project_OS\obj\Debug\final_project_OS.exe
+F:\مجلد جديد\OS_Managment\final_project_OS\obj\Debug\final_project_OS.pdb
+F:\مجلد جديد\OS_Managment\final_project_OS\bin\Debug\final_project_OS.pdb

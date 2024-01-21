@@ -1,0 +1,98 @@
+D:\final_project_OS\final_project_OS\bin\Debug\final_project_OS.exe.config
+D:\final_project_OS\final_project_OS\bin\Debug\final_project_OS.exe
+D:\final_project_OS\final_project_OS\bin\Debug\final_project_OS.pdb
+D:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.csprojResolveAssemblyReference.cache
+D:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Properties.Resources.resources
+D:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.csproj.GenerateResource.Cache
+D:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.exe
+D:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.pdb
+D:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Home.resources
+D:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.process_management.resources
+D:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.create_process.resources
+D:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.show_all_process.resources
+D:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.API.resources
+D:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.PC_information.resources
+D:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Files.resources
+D:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Drives.resources
+E:\final_project_OS\final_project_OS\bin\Debug\final_project_OS.exe.config
+E:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.exe
+E:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.pdb
+E:\final_project_OS\final_project_OS\bin\Debug\final_project_OS.exe
+E:\final_project_OS\final_project_OS\bin\Debug\final_project_OS.pdb
+E:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.csprojResolveAssemblyReference.cache
+E:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.API.resources
+E:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.create_process.resources
+E:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Drives.resources
+E:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Files.resources
+E:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Home.resources
+E:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.PC_information.resources
+E:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.process_management.resources
+E:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Properties.Resources.resources
+E:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.show_all_process.resources
+E:\final_project_OS\final_project_OS\obj\Debug\final_project_OS.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\OS\final_project_OS\final_project_OS\bin\Debug\final_project_OS.exe.config
+C:\Users\User\Desktop\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.exe
+C:\Users\User\Desktop\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.pdb
+C:\Users\User\Desktop\OS\final_project_OS\final_project_OS\bin\Debug\final_project_OS.exe
+C:\Users\User\Desktop\OS\final_project_OS\final_project_OS\bin\Debug\final_project_OS.pdb
+C:\Users\User\Desktop\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.API.resources
+C:\Users\User\Desktop\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.create_process.resources
+C:\Users\User\Desktop\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Drives.resources
+C:\Users\User\Desktop\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Files.resources
+C:\Users\User\Desktop\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Home.resources
+C:\Users\User\Desktop\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.PC_information.resources
+C:\Users\User\Desktop\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.process_management.resources
+C:\Users\User\Desktop\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Properties.Resources.resources
+C:\Users\User\Desktop\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.show_all_process.resources
+C:\Users\User\Desktop\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.csproj.GenerateResource.Cache
+J:\OS\final_project_OS\final_project_OS\bin\Debug\final_project_OS.exe.config
+J:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.exe
+J:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.pdb
+J:\OS\final_project_OS\final_project_OS\bin\Debug\final_project_OS.exe
+J:\OS\final_project_OS\final_project_OS\bin\Debug\final_project_OS.pdb
+J:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.csprojResolveAssemblyReference.cache
+J:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.API.resources
+J:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.create_process.resources
+J:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Drives.resources
+J:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Files.resources
+J:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Home.resources
+J:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.PC_information.resources
+J:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.process_management.resources
+J:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Properties.Resources.resources
+J:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.show_all_process.resources
+J:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.csproj.GenerateResource.Cache
+D:\OS\final_project_OS\final_project_OS\bin\Debug\final_project_OS.exe.config
+D:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.exe
+D:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.pdb
+D:\OS\final_project_OS\final_project_OS\bin\Debug\final_project_OS.exe
+D:\OS\final_project_OS\final_project_OS\bin\Debug\final_project_OS.pdb
+D:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.csprojResolveAssemblyReference.cache
+D:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.API.resources
+D:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.create_process.resources
+D:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Drives.resources
+D:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Files.resources
+D:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Home.resources
+D:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.PC_information.resources
+D:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.process_management.resources
+D:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Properties.Resources.resources
+D:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.show_all_process.resources
+D:\OS\final_project_OS\final_project_OS\obj\Debug\final_project_OS.csproj.GenerateResource.Cache
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\bin\Debug\final_project_OS.exe.config
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\bin\Debug\final_project_OS.exe
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.csproj.AssemblyReference.cache
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.csproj.SuggestedBindingRedirects.cache
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.API.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.create_process.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Drives.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Files.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Home.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.PC_information.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.process_management.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.Properties.Resources.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.show_all_process.resources
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.csproj.GenerateResource.cache
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.csproj.CoreCompileInputs.cache
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.exe
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\obj\Debug\final_project_OS.pdb
+F:\مجلد جديد\المشاريع\final_project_OS\final_project_OS\bin\Debug\final_project_OS.pdb
